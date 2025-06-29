@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m passionate about building robust web and mobile appl
 ### 🛒 [SK Kart – E-commerce Platform](https://github.com/golti-saikiran/sk-kart)
 _A fully functional MERN-based shopping app with cart, checkout, categories, and secure payment._
 
-### 🔌 [SKMobiles GraphQL Backend](https://github.com/golti-saikiran/skmobiles-graphql-backend)
+### 🔌 [SKMobiles GraphQL powred UI](https://github.com/golti-saikiran/skmobiles)
 _A GraphQL-powered backend service built for a mobile store app._
 
 ---
